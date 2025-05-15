@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+out
+.DS_Store
+*.log
+*.tsbuildinfo
+*.tgz
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tar.lz
