@@ -1,4 +1,4 @@
-node_modules
+node_modules/git add .gitignore
 .next
 .env
 out
@@ -12,3 +12,5 @@ out
 *.tar.xz
 *.tar.bz2
 *.tar.lz
+node_modules
+node_modules
